@@ -1,0 +1,1 @@
+LocalStorage and Event Delegation exercise from Wes Bos JavaScript 30 site. Select All, Deselect All and Clear All buttons added.
